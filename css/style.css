@@ -10,6 +10,13 @@ body{
 }
 
 .description{
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
     color: white;
+}
+
+.footer{
+    background-color: teal;
+    padding: 50px;
+    width: 100%;
 }
