@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://www.imgacademy.com/themes/custom/imgacademy/images/helpbox-contact.jpg");
+}
+
+.title{
+    text-align: center;
+    font-weight: 900;
+    color: red;
+}
+
+.description{
+
+    color: white;
+}
